@@ -1,6 +1,5 @@
 ### Olá, Eu sou o Isaac
 
-- Estudando C
 - Contate-se no email: isaachustonns@gmail.com
 <div align="center">
   <a href="https://github.com/malbem">
