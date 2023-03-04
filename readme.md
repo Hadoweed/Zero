@@ -12,9 +12,4 @@
  <img align="right" alt="malbem-pic" height="150" style="border-radius:50px;" 
    src="https://cdn.discordapp.com/attachments/869279915994939402/1026265834861113404/hw.jpg">
 </div>
-  
-##
-  <div> 
-  <a href="https://www.instagram.com/_malbem/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:isaachustonns@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
