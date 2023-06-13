@@ -19,7 +19,7 @@
 <p><a href="https://www.buymeacoffee.com/malbem"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="malbem" /></a></p><br><br><br>
 
 <hr>
-<p align="center" ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malbem&show_icons=true&locale=en&layout=compact" alt="malbem" /></p><br><br>
+<p align="center" ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malbem&show_icons=true&locale=en&layout=compact" alt="malbem" /></p><br><br><br>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malbem&show_icons=true&locale=en" alt="malbem" /></p><br><br>
 
