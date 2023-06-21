@@ -16,6 +16,6 @@
 <hr>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malbem&show_icons=true&locale=en&layout=compact" alt="malbem" /></p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=malbem&show_icons=true&locale=en" alt="malbem" /> 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malbem&" alt="malbem" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malbem&" alt="malbem" /> 
 
 
