@@ -15,9 +15,13 @@
 
 <hr>
 
-<div align="center">
-  <p align="left" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malbem&show_icons=true&locale=en&layout=compact" alt="malbem" /></p>
-  <p align="right"> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malbem&show_icons=true&locale=en" alt="malbem" /></p>
+<div style="display: flex;">
+  <div style="flex: 50%;">
+    <p align="left" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malbem&show_icons=true&locale=en&layout=compact" alt="malbem" /></p>
+  </div>
+  <div style="flex: 50%;">
+    <p align="right"> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malbem&show_icons=true&locale=en" alt="malbem" /></p>
+  </div>
 </div>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malbem&" alt="malbem" /></p><br>
 
