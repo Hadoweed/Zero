@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Morphelse](https://github.com/Morphelse)
 
-- 🤝 I’m looking for help with [Tailwindify]([https://github.com/GreeTime](https://github.com/malbem/Tailwindify))
+- 🤝 I’m looking for help with [Tailwindify](https://github.com/malbem/Tailwindify)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
